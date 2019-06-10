@@ -1,0 +1,37 @@
+anesthesiolog|anaesthesiolog|anaesthesia|anaesthetics
+cardiolog
+cardiovascular|thoracic
+immunolog
+critical care
+dermatolog
+diagnostic radiolog
+emergency
+endocrinolog
+family
+gastroenterolog
+general internal
+general surgery
+patholog
+geriatric
+hematolog|haematolog
+biochemistry
+medical genetics
+medical microbiolog
+infectious diseases
+nephrolog
+neurolog
+neurosurgery
+nuclear medicine
+obstetric|gynecolog|gynaecolog
+occuptational
+ophthalmolog
+otolaryngolog
+pediatric|paedatric
+physical medicine
+plastic surgery
+psychiatry
+public health|preventive|preventative
+radiation oncolog
+respiratory|respirolog
+rheumatolog
+urolog
